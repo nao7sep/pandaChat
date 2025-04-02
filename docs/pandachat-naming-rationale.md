@@ -1,4 +1,4 @@
-﻿<!-- nao7sep | o3-mini-high | 2025-03-31T03:06:20Z -->
+﻿<!-- 2025-03-31T03:06:20Z -->
 
 # pandaChat Naming Rationale
 
