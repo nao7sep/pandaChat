@@ -6,7 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
 
         <!-- Project Metadata -->
-        <AssemblyTitle>pandaChat</AssemblyTitle>
+        <AssemblyTitle>pandaChatApp</AssemblyTitle>
         <Product>pandaChat</Product>
         <Description>Web application frontend for the pandaChat application</Description>
         <Company>Purrfect Code</Company>
