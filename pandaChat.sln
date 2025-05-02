@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChat.Lib", "src\pandaChat.Lib\pandaChat.Lib.csproj", "{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChat.App", "src\pandaChat.App\pandaChat.App.csproj", "{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDED11FD-B629-46BC-9289-D1A5AB902C87}
+	EndGlobalSection
+EndGlobal
