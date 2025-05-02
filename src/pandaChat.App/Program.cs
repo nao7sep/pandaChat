@@ -1,4 +1,4 @@
-using pandaChat.App.Components;
+using pandaChatApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

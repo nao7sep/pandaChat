@@ -4,9 +4,9 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChat.Lib", "src\pandaChat.Lib\pandaChat.Lib.csproj", "{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChatLib", "src\pandaChatLib\pandaChatLib.csproj", "{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChat.App", "src\pandaChat.App\pandaChat.App.csproj", "{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChatApp", "src\pandaChatApp\pandaChatApp.csproj", "{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
