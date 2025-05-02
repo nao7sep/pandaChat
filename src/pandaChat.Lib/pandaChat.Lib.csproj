@@ -1,20 +1,24 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
 
-    <!-- Project Metadata -->
-    <AssemblyTitle>pandaChatLib</AssemblyTitle>
-    <Product>pandaChat</Product>
-    <Description>Core library for the pandaChat application</Description>
-    <Company>Purrfect Code</Company> <!-- Assuming same company as gptLog -->
-    <Authors>nao7sep</Authors> <!-- Assuming same author as gptLog -->
-    <Copyright>Copyright © 2025</Copyright>
-    <Version>0.1</Version> <!-- Initial version -->
-    <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression> <!-- Assuming same license -->
-    <RepositoryUrl>https://github.com/nao7sep/pandaChat</RepositoryUrl> <!-- Assuming repository URL -->
-  </PropertyGroup>
+        <!-- Project Metadata -->
+        <AssemblyTitle>pandaChatLib</AssemblyTitle>
+        <Product>pandaChat</Product>
+        <Description>Core library for the pandaChat application</Description>
+        <Company>Purrfect Code</Company>
+        <Authors>nao7sep</Authors>
+        <Copyright>Copyright © 2025</Copyright>
+        <Version>0.1</Version>
+        <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/nao7sep/pandaChat</RepositoryUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../../../pawKit/src/pawKit.Lib/pawKit.Lib.csproj" />
+    </ItemGroup>
 
 </Project>
