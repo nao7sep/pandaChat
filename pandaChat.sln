@@ -4,9 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChatLib", "src\pandaChatLib\pandaChatLib.csproj", "{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChatApp", "src\pandaChatApp\pandaChatApp.csproj", "{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChatApp", "src\pandaChatApp\pandaChatApp.csproj", "{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,23 +12,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5A81E673-301A-46A1-3FA1-6B8C11EE8B46} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
-		{6B8A82C2-806F-F5FD-DDA9-05C1B201A482} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DDED11FD-B629-46BC-9289-D1A5AB902C87}
+		SolutionGuid = {B87B1CDC-22D2-495B-A456-C32B2645974B}
 	EndGlobalSection
 EndGlobal
