@@ -7,23 +7,23 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pandaChatApp", "src\pandaChatApp\pandaChatApp.csproj", "{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6C2C4556-9FBF-4F1A-B64C-0B27DDFF7DF1}
-	EndGlobalSection
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(NestedProjects) = preSolution
+        {F84A9AA6-FCD8-FC04-47EE-37AE9A3AB057} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+    EndGlobalSection
+    GlobalSection(ExtensibilityGlobals) = postSolution
+        SolutionGuid = {6C2C4556-9FBF-4F1A-B64C-0B27DDFF7DF1}
+    EndGlobalSection
 EndGlobal

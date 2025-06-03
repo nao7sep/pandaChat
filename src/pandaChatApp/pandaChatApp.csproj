@@ -1,20 +1,20 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
 
-    <!-- Project Metadata -->
-    <AssemblyTitle>pandaChatApp</AssemblyTitle>
-    <Product>pandaChat</Product>
-    <Description>A web-based chat application powered by AI, enabling seamless conversations.</Description>
-    <Company>Purrfect Code</Company>
-    <Authors>nao7sep</Authors>
-    <Copyright>Copyright © 2025</Copyright>
-    <Version>0.1</Version>
-    <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/nao7sep/pandaChat</RepositoryUrl>
-  </PropertyGroup>
+        <!-- Project Metadata -->
+        <AssemblyTitle>pandaChatApp</AssemblyTitle>
+        <Product>pandaChat</Product>
+        <Description>A web-based chat application powered by AI, enabling seamless conversations.</Description>
+        <Company>Purrfect Code</Company>
+        <Authors>nao7sep</Authors>
+        <Copyright>Copyright © 2025</Copyright>
+        <Version>0.1</Version>
+        <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/nao7sep/pandaChat</RepositoryUrl>
+    </PropertyGroup>
 
 </Project>
